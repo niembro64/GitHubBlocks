@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+}
+
+body{
+    
+}
+
+
+.bar {
+    height: 200px;
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+    padding: 10px;
+}
+
+#first {
+    background-color: blue;
+}
+#second {
+    background-color: greenyellow;
+}
+#third {
+    background-color: red;
+}
+
+img {
+    height: 200px;
+}
